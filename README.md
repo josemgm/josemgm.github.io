@@ -5,4 +5,10 @@ Repo para la asignatura de HMIS de la Universidad de Almería.
 
 # sesion03-c02: [Link a Pro Git Book https://git-scm.com/book/es/](https://git-scm.com/book/es/)
 
+<<<<<<< HEAD
 # sesion03-c03: [Link a gitlab.com](https://gitlab.com)
+=======
+# sesion03-c03: [Link a gitlab.com](https://gitlab.com)
+
+# sesion03-c04: [Enlaces a otros SCV distribuidos: Bazaar, Mercurial](https://www.mercurial-scm.org/)
+>>>>>>> C04
